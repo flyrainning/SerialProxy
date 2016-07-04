@@ -3,7 +3,7 @@
 
 ##安装
 所需模块
-serialport，ws
+serialport，ws，WSocket
 
 
 ##使用方法
