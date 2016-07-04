@@ -1,0 +1,2 @@
+# SerialProxy
+基于nodejs和websocket的串口通讯代理，可以在网页上通过js直接与服务器端串口进行通讯
